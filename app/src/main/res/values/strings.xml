@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM_Base</string>
+    <string name="offline_weather">Offline Weather</string>
+    <string name="connect_error">Connection Error</string>
+</resources>
